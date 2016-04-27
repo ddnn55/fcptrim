@@ -6,6 +6,8 @@ var fs = require('fs'),
     assert = require('assert'),
     path = require('path');
 
+console.log('# pipe this to bash! or save it for later.');
+
 var clip = path.basename(argv._[0], '.xml');
 console.log('mkdir -p ', path.join('trimmed', clip));
 
