@@ -1,6 +1,6 @@
 {
   "name": "fcptrim",
-  "version": "2.0.1",
+  "version": "4.0.0",
   "description": "Trim video files as specified in a Final Cut Pro XML file",
   "main": "fcptrim.js",
   "bin": {

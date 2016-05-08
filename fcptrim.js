@@ -6,7 +6,7 @@ var fs = require('fs'),
     assert = require('assert'),
     path = require('path');
 
-var trimmedDir = 'trimmed-more';
+var trimmedDir = 'trimmed';
 
 console.log('# pipe this to bash! or save it for later.');
 
